@@ -1,0 +1,4 @@
+-->open .py file in any python compiler
+-->install all the libraries used in the program.
+-->then you can run the program.. you speak according to the if statements given in the program.
+-->if you want to open a file from your pc then you can change the file directry path. 
